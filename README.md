@@ -2,8 +2,8 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá, Sou Denilson Ferreira de Araujo. <br>
-Finalizei meu curso técnico de desenvolvimento de sistemas no Senai (Full stack) (Início Jan/2023 e Término em Dez/2024).<br>
+Olá, <br>
+Finalizei meu curso técnico 2 anos presenciais de desenvolvimento de sistemas (Full stack) no Senai de Sumaré/SP (Início Jan/2023 e Término em Dez/2024).<br>
 Pretendo agora iniciar estudos em Engenharia de Software. 
 Estou em busca de oportunidade para atuar na área e aprimorar minhas habilidades.
 
