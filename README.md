@@ -3,9 +3,13 @@
 **`Desenvolvedor FullStack`**
 
 Olá, <br>
-Finalizei meu curso técnico 2 anos presenciais de desenvolvimento de sistemas (Full stack) no Senai de Sumaré/SP (Início Jan/2023 e Término em Dez/2024).<br>
-Pretendo agora iniciar estudos em Engenharia de Software. 
-Estou em busca de oportunidade para atuar na área e aprimorar minhas habilidades.
+Sou Técnico em Desenvolvimento de Sistemas, possuo Tecnólogo em Logística e Pós Graduado em Engenharia de Software. 
+<br> 
+Com mais
+de 20 anos de experiência profissional em gestão operacional, análise de performance, processos e indicadores. Em
+transição estratégica para Desenvolvimento de Software, com foco em Node.js, NestJS, JavaScript, TypeScript, React, Next.js, Prisma, MySQL e PostgreSQL. Combino visão de negócio, pensamento analítico e experiência prática em dados e
+processos para desenvolver soluções orientadas a necessidades reais do negócio.
+<br>
 
 #### 🤖 Linguagens e Tecnologias
 
